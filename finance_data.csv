@@ -1,0 +1,17 @@
+date,amount,category,description
+20-07-2024,15000,Income,Salary
+12-09-2024,1250.0,Income,Side income
+12-09-2024,2500.0,Expense,dinner
+20-07-2024,15000,Income,Salary
+25-07-2024,2500,Expense,Groceries
+28-07-2024,2000,Expense,Entertainment
+30-07-2024,500,Expense,Transportation
+01-08-2024,5000,Expense,Rent
+05-08-2024,300,Expense,Groceries
+07-08-2024,800,Expense,Utilities
+10-08-2024,1200,Expense,Shopping
+15-08-2024,1500,Income,Freelance Work
+20-08-2024,700,Expense,Dinner
+25-08-2024,5000,Income,Bonus
+28-08-2024,400,Expense,Transportation
+30-08-2024,600,Expense,Entertainment
